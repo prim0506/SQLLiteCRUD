@@ -4,7 +4,7 @@
 <br/>
 ## 메인화면 및 데이터 추가 후
 <br/>
-![화면 캡처 2021-12-15 210918](https://user-images.githubusercontent.com/76406599/146184747-b8023b94-2301-4989-a60d-4fddf1910e9c.png)
+![화면 캡처 2021-12-15 210918](https://user-images.githubusercontent.com/76406599/146185719-d9a7e1d9-6e81-4ee6-8add-cbb813b6d2b2.png)
 ## 데이터 보기
 <br/>
 ![화면 캡처 2021-12-15 211022](https://user-images.githubusercontent.com/76406599/146184802-bd21662b-bc2d-442e-943a-cc1b1d21a522.png)
